@@ -1,7 +1,8 @@
 # CCBD_Polygon-Generator
 This project aims to generate random polygon ranging from 10 to 500 vertices with base polygons ranging from triangle to octagon. The polygons are saved in a wkt format in a .csv file.  
-The time taken to generate the file and the size of file is 
-![image](https://user-images.githubusercontent.com/65866016/117930164-49e27980-b31b-11eb-92e8-c1e1e3965275.png)
+The time taken to generate the file and the size of file is
+![image](https://user-images.githubusercontent.com/65866016/117932519-13f2c480-b31e-11eb-8ff1-e7d8957dbbcb.png)
+
 
 The polygons generated in the .csv file are visualised using QGIS, an open-source cross-platform desktop geographic information system application.
 ![image](https://user-images.githubusercontent.com/65866016/117930430-99c14080-b31b-11eb-8a7b-a700749fc0dc.png)

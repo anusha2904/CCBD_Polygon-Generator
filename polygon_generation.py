@@ -301,8 +301,6 @@ from skimage.color import rgb2lab, deltaE_cie76
 
 
 image = cv2.imread('saved_figure.png')
-print("The type of this input is {}".format(type(image)))
-print("Shape: {}".format(image.shape))
 #plt.imshow(image)
 
 

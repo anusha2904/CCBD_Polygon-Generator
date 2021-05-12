@@ -3,6 +3,7 @@ This project aims to generate random polygon ranging from 10 to 500 vertices wit
 ![image](https://user-images.githubusercontent.com/84035651/117946991-69829d80-b32d-11eb-9bd1-5ce2a1c49140.png)
 
 The time taken to generate the file and the size of file is:
+
 ![image](https://user-images.githubusercontent.com/65866016/117932519-13f2c480-b31e-11eb-8ff1-e7d8957dbbcb.png)
 
 The polygons generated in the .csv file are visualised using QGIS, an open-source cross-platform desktop geographic information system application.

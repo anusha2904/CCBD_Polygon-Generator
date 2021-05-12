@@ -5,6 +5,8 @@ $ pip install -r requirements.txt
 Run the python file in the terminal:
 python3 polygon_generator.py
 
+To visualise the .csv file, install QGIS, start a new project and import the .csv data and run. 
+
 This project aims to generate random polygon ranging from 10 to 500 vertices with base polygons ranging from triangle to octagon. The polygons are saved in a wkt format in a .csv file.  
 ![image](https://user-images.githubusercontent.com/65866016/117934939-cdeb3000-b320-11eb-8e29-50e53f4481ce.png)
 

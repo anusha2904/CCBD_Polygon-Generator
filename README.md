@@ -1,5 +1,5 @@
 # CCBD_Polygon-Generator
-Install the modules mentioned in the module_file or run this command:
+Install the modules mentioned or run this command:
 $ pip install -r requirements.txt
 
 Run the python file in the terminal:
